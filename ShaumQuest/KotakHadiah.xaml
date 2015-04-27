@@ -1,0 +1,175 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="ShaumQuest.KotakHadiah"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="bg4.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Kotak Hadiah" Margin="9,5,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="60" Foreground="#FFEF8D08"/>
+        </StackPanel>
+        <ScrollViewer HorizontalAlignment="Left" Height="592" Margin="2,135,0,0" VerticalAlignment="Top" Width="464" Grid.RowSpan="2">
+            <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.RowSpan="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1700"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button Name ="_1" Content="" HorizontalAlignment="Left" Margin="34,2,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgeab1-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button Name ="_1text" Content="" HorizontalAlignment="Left" Margin="125,16,0,0" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-ab1bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_2" Content="" HorizontalAlignment="Left" Margin="34,122,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgeab3-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_2text" Content="" HorizontalAlignment="Left" Margin="125,136,0,0" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-ab3bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_3" Content="" HorizontalAlignment="Left" Margin="34,242,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgeab6-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_3text" Content="" HorizontalAlignment="Left" Margin="125,256,0,0" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-ab6bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_4" Content="" HorizontalAlignment="Left" Margin="33,362,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgear-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_4text" Content="" HorizontalAlignment="Left" Margin="125,376,0,0" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-abt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_5" Content="" HorizontalAlignment="Left" Margin="33,482,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgek1-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_5text" Content="" HorizontalAlignment="Left" Margin="125,496,0,0" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-k1bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_6" HorizontalAlignment="Left" Margin="33,602,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgema-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_6text" Content="" HorizontalAlignment="Left" Margin="125,616,0,-91" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-mabt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_7" Content="" HorizontalAlignment="Left" Margin="33,722,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgemf-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_7text" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False" Margin="125,736,0,-211">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-mbt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_8" Content="" HorizontalAlignment="Left" Margin="33,842,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgemt-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_8text" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False" Margin="125,856,0,-331">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-mtbt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_9" Content="" HorizontalAlignment="Left" Margin="33,962,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badger-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_9text" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False" Margin="125,976,0,-451">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-rbt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_10" HorizontalAlignment="Left" Margin="33,1082,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badges1-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_10text" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False" Margin="125,1096,0,-571">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-s1bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_11" Content="" HorizontalAlignment="Left" Margin="33,1202,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgesk1-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_11text" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False" Margin="125,1216,0,-691">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-sk1bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_12" Content="" HorizontalAlignment="Left" Margin="33,1322,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgesk3-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_12text" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False" Margin="125,1336,0,-811">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-sk3bt.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_13" Content="" HorizontalAlignment="Left" Margin="33,1442,0,0" VerticalAlignment="Top" Height="115" Width="114" BorderThickness="0" IsHitTestVisible="False">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="badgesk5-b.png"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name ="_13text" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="87" Width="313" BorderThickness="0" IsHitTestVisible="False" Margin="125,1456,0,-931">
+                <Button.Background>
+                    <ImageBrush Stretch="Fill" ImageSource="kh-sk5bt.png"/>
+                </Button.Background>
+            </Button>
+            
+        </Grid>
+        </ScrollViewer>
+        <TextBlock HorizontalAlignment="Left" Height="44" Margin="23,13,0,0" TextWrapping="Wrap" Text="SHAUM QUEST" VerticalAlignment="Top" Width="230" FontSize="21"/>
+    </Grid>
+
+
+</phone:PhoneApplicationPage>

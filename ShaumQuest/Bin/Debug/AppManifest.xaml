@@ -1,0 +1,15 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="ShaumQuest" EntryPointType="ShaumQuest.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="ShaumQuest" Source="ShaumQuest.dll" />
+    <AssemblyPart x:Name="Microsoft.Expression.Interactions" Source="Microsoft.Expression.Interactions.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="microsoft.phone.controls.toolkit" Source="microsoft.phone.controls.toolkit.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+    <AssemblyPart Source="en-MY/ShaumQuest.resources.dll" />
+    <AssemblyPart Source="en/ShaumQuest.resources.dll" />
+    <AssemblyPart Source="id-ID/ShaumQuest.resources.dll" />
+    <AssemblyPart Source="id/ShaumQuest.resources.dll" />
+    <AssemblyPart Source="en/Microsoft.Expression.Interactions.resources.dll" />
+    <AssemblyPart Source="en/System.Windows.Interactivity.resources.dll" />
+  </Deployment.Parts>
+</Deployment>

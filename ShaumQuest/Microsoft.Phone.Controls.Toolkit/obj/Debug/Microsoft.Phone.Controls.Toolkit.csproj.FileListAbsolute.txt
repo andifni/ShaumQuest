@@ -1,0 +1,13 @@
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Bin\Debug\Microsoft.Phone.Controls.Toolkit.XML
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll.CodeAnalysisLog.xml
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll.lastcodeanalysissucceeded
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\Microsoft.Phone.Controls.Toolkit.csprojResolveAssemblyReference.cache
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\DateTimePickers\TimePickerPage.g.cs
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\DateTimePickers\DatePickerPage.g.cs
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\Microsoft.Phone.Controls.Toolkit.g.resources
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\Microsoft.Phone.Controls.Properties.Resources.resources
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\Microsoft.Phone.Controls.Toolkit.csproj.GenerateResource.Cache
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\POYOPOYO\TOOLS\Silverlight for Windows Phone Toolkit Source Code\Microsoft.Phone.Controls.Toolkit\obj\Debug\Microsoft.Phone.Controls.Toolkit.pdb

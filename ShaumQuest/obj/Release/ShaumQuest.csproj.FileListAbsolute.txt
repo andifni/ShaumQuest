@@ -1,0 +1,321 @@
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Assets\ApplicationIcon.png
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ShaumQuest.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ShaumQuest.pdb
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\AppManifest.xaml
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Properties\WMAppManifest.xml
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\Microsoft.Phone.Controls.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\System.Windows.Interactivity.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.pdb
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.xml
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\App.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\JadwalAlarm.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\LCalendar.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\MainPage.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\SetReminderAlarm.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\Sorry.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ViewCalendar.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.g.resources
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.resources
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.csproj.GenerateResource.Cache
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.pdb
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\XapCacheFile.xml
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.csprojResolveAssemblyReference.cache
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\id-ID\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\id\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id-ID.resources
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id.resources
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\id-ID\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\id\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\KamuPuasa.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\KotakHadiah.g.cs
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\en-MY\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\en\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en-MY.resources
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en.resources
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\en-MY\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\obj\Release\en\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest\ShaumQuest\Bin\Release\ShaumQuestv1.0.0.2.xap
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ShaumQuest.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ShaumQuest.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\en-MY\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\en\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\id-ID\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\id\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\AppManifest.xaml
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ShaumQuestv1.0.0.2.xap
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.xml
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.csprojResolveAssemblyReference.cache
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\App.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\JadwalAlarm.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\KamuPuasa.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\KotakHadiah.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\LCalendar.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\MainPage.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\SetReminderAlarm.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\Sorry.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ViewCalendar.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.g.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en-MY.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id-ID.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.csproj.GenerateResource.Cache
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\en-MY\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\en\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\id-ID\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\id\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\ShaumQuest.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest\ShaumQuest\obj\Release\XapCacheFile.xml
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Assets\ApplicationIcon.png
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ShaumQuest.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ShaumQuest.pdb
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\en-MY\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\en\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\id-ID\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\id\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\AppManifest.xaml
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Properties\WMAppManifest.xml
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\Microsoft.Phone.Controls.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\System.Windows.Interactivity.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.pdb
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.xml
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.csprojResolveAssemblyReference.cache
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\App.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\JadwalAlarm.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\KamuPuasa.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\KotakHadiah.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\LCalendar.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\MainPage.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\SetReminderAlarm.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\Sorry.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ViewCalendar.g.cs
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.g.resources
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.resources
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en-MY.resources
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en.resources
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id-ID.resources
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id.resources
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.csproj.GenerateResource.Cache
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\en-MY\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\en\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\id-ID\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\id\ShaumQuest.resources.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.dll
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\ShaumQuest.pdb
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\obj\Release\XapCacheFile.xml
+D:\POYOPOYO\YP\ShaumQuest ver 1.0.0.2\ShaumQuest\Bin\Release\ShaumQuestv1.0.1.0.xap
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ShaumQuest.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ShaumQuest.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en-MY\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\id-ID\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\id\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\AppManifest.xaml
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ShaumQuestv1.0.1.0.xap
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.xml
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.csprojResolveAssemblyReference.cache
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\App.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\JadwalAlarm.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\KamuPuasa.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\KotakHadiah.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\LCalendar.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\MainPage.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\SetReminderAlarm.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\Sorry.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ViewCalendar.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.g.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en-MY.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id-ID.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id.resources
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.csproj.GenerateResource.Cache
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\en-MY\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\en\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\id-ID\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\id\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.dll
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\XapCacheFile.xml
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ShaumQuest.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ShaumQuest.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en-MY\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\id-ID\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\id\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\AppManifest.xaml
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ShaumQuestv1.0.1.0.xap
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Microsoft.Expression.Interactions.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\microsoft.phone.controls.toolkit.xml
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.csprojResolveAssemblyReference.cache
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\App.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\JadwalAlarm.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\KamuPuasa.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\KotakHadiah.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\LCalendar.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\MainPage.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\SetReminderAlarm.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\Sorry.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ViewCalendar.g.cs
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.g.resources
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.resources
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en-MY.resources
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.en.resources
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id-ID.resources
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.Resources.AppResources.id.resources
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.csproj.GenerateResource.Cache
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\en-MY\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\en\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\id-ID\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\id\ShaumQuest.resources.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.dll
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\ShaumQuest.pdb
+C:\Users\Laila\Dropbox\POYOPOYO\SHAUM QUEST\Code\ShaumQuest ver 1.0.1.0\ShaumQuest\obj\Release\XapCacheFile.xml

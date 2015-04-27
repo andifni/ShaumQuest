@@ -1,0 +1,7 @@
+Menu font Shaum Quest: #56630e size: 20
+	Tanggal masehi & ket: 8pt
+	Tanggal hijr: 6pt
+Menu font Kalender Shaum: #b72d0b size: 20
+	Font hitam: #242424
+Menu font Shaum Saya: #cb4e0f size: 20
+Menu font Kotak Hadiah: #d97500
